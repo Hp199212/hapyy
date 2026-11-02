@@ -1,0 +1,6 @@
+# Yahoo! Auctions Japan
+# Loon remote rule list: choose node/policy yourself when adding the subscription.
+# These are domain rules, not app-only filters.
+DOMAIN-SUFFIX,auctions.yahoo.co.jp
+DOMAIN,auctions.yahooapis.jp
+DOMAIN,auc-pctr.c.yimg.jp
