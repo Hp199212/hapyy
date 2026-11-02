@@ -1,0 +1,13 @@
+# Yahoo Japan shared domains
+# Loon remote rule list: choose node/policy yourself when adding the subscription.
+# These are domain rules, not app-only filters.
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yahoo.jp
+DOMAIN-SUFFIX,yahooapis.jp
+DOMAIN-SUFFIX,yimg.jp
+DOMAIN-SUFFIX,storage-yahoo.jp
+DOMAIN-SUFFIX,yahoo-net.jp
+DOMAIN-SUFFIX,yahoo-help.jp
+DOMAIN-SUFFIX,yahoobox.jp
+DOMAIN-SUFFIX,yjtag.jp
+DOMAIN-SUFFIX,yj.pn
